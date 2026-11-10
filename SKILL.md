@@ -26,6 +26,7 @@ description: 用 Remotion + Edge TTS + 原创程序化音乐，从选题/事实�
 | `references/qa-checklist.md` | 事实/素材/音频/字幕/版式/可复现检查表 |
 | `references/asset-sourcing.md` | 官方素材抓取、版权与标注 |
 | `references/information-density.md` | 「不如 PPT」诊断与三层信息密度方案 |
+| `references/project-intro-video.md` | 项目介绍/技术分享片：8 段骨架、专业文案、证据与密度规则 |
 
 ## 标准流程（TL;DR）
 
