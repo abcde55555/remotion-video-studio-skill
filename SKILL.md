@@ -60,6 +60,11 @@ description: 用 Remotion + Edge TTS + 原创程序化音乐，从选题/事实�
 - 渲染可复现：连续两次编码 md5 一致。
 - 信息型视频每屏 ≥6 个信息点，开头 5s TL;DR，片尾总结表。
 
-## 开源项目介绍（默认走查版）
+## 两类视频，两套 SOP（不要混用）
 
-介绍开源项目时默认走「真实页面走查」：用 Playwright 截 GitHub 全页 → 脚本四问 → 分镜推拉/滚动/点击 → 配音配乐 → 渲染 QA。完整 SOP 见 `references/open-source-intro-sop.md`。
+| 类型 | 画面 | SOP |
+|---|---|---|
+| 产品 / 功能 / 模型能力 / 发布会概念片 | 脚本 + 口播 + 动效卡片/示意图（可无真实页面） | `references/project-intro-video.md` |
+| GitHub 开源项目介绍 | **真实项目页面走查**：repo 全页截图 + 镜头推拉/滚动/点击 | `references/open-source-intro-sop.md` |
+
+判断：要展示「项目本身长什么样、README 怎么写、Release 怎么发、怎么跑」→ 走查版；要讲「产品能力/概念/愿景」→ 产品片。

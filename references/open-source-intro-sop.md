@@ -1,4 +1,6 @@
-# 开源项目介绍视频 · SOP（2026-11 定版）
+# 开源项目介绍视频 · SOP（走查版，2026-11 定版）
+
+> 与「产品/功能介绍片」分开：产品片见 `references/project-intro-video.md`（脚本/动效为主）；本文只用于 GitHub 开源项目介绍（真实页面走查）。
 
 > 默认采用「真实页面走查」版：把项目真页面截下来 → 镜头推拉/滚动 → 该点的才点。**不再用 PPT 卡片、不要做地球/抽象背景。**
 > 参考成品：`out/craft-anything-walkthrough-vertical-cn.mp4`；工程：`remotion/src/scenes/craftanything/CraftAnythingWalk.tsx`。
