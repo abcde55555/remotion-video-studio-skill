@@ -59,3 +59,7 @@ description: 用 Remotion + Edge TTS + 原创程序化音乐，从选题/事实�
 - 配音/字幕与画面切换对齐：每句在切换后 0.2–0.6s 开口，不跨切。
 - 渲染可复现：连续两次编码 md5 一致。
 - 信息型视频每屏 ≥6 个信息点，开头 5s TL;DR，片尾总结表。
+
+## 开源项目介绍（默认走查版）
+
+介绍开源项目时默认走「真实页面走查」：用 Playwright 截 GitHub 全页 → 脚本四问 → 分镜推拉/滚动/点击 → 配音配乐 → 渲染 QA。完整 SOP 见 `references/open-source-intro-sop.md`。
